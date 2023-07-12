@@ -1,4 +1,4 @@
-# [제5회 2023 연구개발특구 AI SPARK 챌린지 - 사회문제해결형](https://aifactory.space/competition/detail/2317)
+# <a href="https://aifactory.space/competition/detail/2317" target="_blank">제5회 2023 연구개발특구 AI SPARK 챌린지 - 사회문제해결형</a>
 ## 🚩 대회 정보
 - 주제 : 초미세먼지(PM2.5) 오염도 단기 예측 모델 만들기
 - 기간 : 23.04.24 ~ 23.05.11
